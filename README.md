@@ -9,7 +9,7 @@ This bot automatically logs in and marks your attendance randomly between 8:45 A
 3. Add Environment Variables in Railway:
    - USERNAME = your login email
    - PASSWORD = your login password
-   - USER_IP = your IP address (eg. 110.44.126.148)
+   - USER_IP = your IP address (eg. 103.1.93.84)
 4. Set the Start Command as:
 
 ```bash
