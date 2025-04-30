@@ -1,1 +1,33 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
 .env
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store
+
+# State files
+attendance_state.json
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Bytecode compiled files
+*.pyc
+
+# Zip or build artifacts
+*.zip
